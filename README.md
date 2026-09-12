@@ -1,0 +1,2 @@
+# Pafohotel
+Pafo Hotel
